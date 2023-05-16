@@ -2,11 +2,11 @@ lockfileVersion: '6.0'
 
 dependencies:
   '@handsontable/vue3':
-    specifier: ^12.3.2
-    version: 12.3.2(handsontable@12.3.2)(vue@3.3.2)
+    specifier: ^12.3.3
+    version: 12.3.3(handsontable@12.3.3)(vue@3.3.2)
   handsontable:
-    specifier: ^12.3.2
-    version: 12.3.2
+    specifier: ^12.3.3
+    version: 12.3.3
 
 devDependencies:
   '@types/node':
@@ -528,13 +528,13 @@ packages:
     dev: true
     optional: true
 
-  /@handsontable/vue3@12.3.2(handsontable@12.3.2)(vue@3.3.2):
-    resolution: {integrity: sha512-Xgmu/oEDCoapkfrmqfu7JtA9lGeFe4tpqtfYPOEaIRjZkZlGyU7N7tAjqWWQsMUbc2gViAlgdglg1lDh6N/7Dg==}
+  /@handsontable/vue3@12.3.3(handsontable@12.3.3)(vue@3.3.2):
+    resolution: {integrity: sha512-36w1FjZJQGiQzmCMEbuQkKHERIoTP5AIpCehu4UvFxbPW+uGD3J+t7RNaWwVUGSUXg+BSZNRf8C9MhtfYY37AQ==}
     peerDependencies:
       handsontable: '>=12.0.0'
       vue: next
     dependencies:
-      handsontable: 12.3.2
+      handsontable: 12.3.3
       vue: 3.3.2
     dev: false
 
@@ -2291,8 +2291,8 @@ packages:
       uncrypto: 0.1.2
     dev: true
 
-  /handsontable@12.3.2:
-    resolution: {integrity: sha512-7n/DN8k1CGCfqMY4GEN18oayBwv5JvJbMCzt3uaT0qKE429kG7Q6Y2vfmzYVjatqx6Ico5c10bMqygFR6byhLw==}
+  /handsontable@12.3.3:
+    resolution: {integrity: sha512-Vc7SwCuH60m9bgYwNTpiAAtaeHHUDGl0HXPY7ozb18DQE/2GexTUArkhcIM1RX5gcoeyUjR+vvpF8hHLW/YJBw==}
     dependencies:
       '@types/pikaday': 1.7.4
       core-js: 3.30.2
