@@ -1,8 +1,14 @@
 <template>
   <div>
-    <Test1 />
+    <!-- <Test1 /> -->
+    <CustomRenderer />
+    <!-- <I18n /> -->
+    <!-- <CustomTranslation /> -->
+
   </div>
 </template>
 
 <script setup lang="ts">
+
+
 </script>
