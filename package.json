@@ -13,7 +13,7 @@
     "nuxt": "^3.4.3"
   },
   "dependencies": {
-    "@handsontable/vue3": "^12.3.2",
-    "handsontable": "^12.3.2"
+    "@handsontable/vue3": "^12.3.3",
+    "handsontable": "^12.3.3"
   }
 }
