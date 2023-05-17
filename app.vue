@@ -1,10 +1,10 @@
 <template>
   <div>
     <!-- <Test1 /> -->
-    <CustomRenderer />
+    <!-- <CustomRenderer /> -->
     <!-- <I18n /> -->
     <!-- <CustomTranslation /> -->
-
+    <Hide />
   </div>
 </template>
 
