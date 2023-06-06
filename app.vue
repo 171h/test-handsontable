@@ -4,11 +4,11 @@
     <!-- <CustomRenderer /> -->
     <!-- <I18n /> -->
     <!-- <CustomTranslation /> -->
-    <Hide />
+    <!-- <Hide /> -->
+    <TestReactive />
   </div>
 </template>
 
 <script setup lang="ts">
-
 
 </script>
